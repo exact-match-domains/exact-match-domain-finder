@@ -5,7 +5,7 @@
 :-------------------------:|:-------------------------:
 [Windows](https://apps.microsoft.com/detail/9p0pnkclh353)             |  [Mac](https://github.com/appdownloads/software/raw/main/seo-domain-checker-mac.zip)
 ### Features
-- SEO Exact Match Domain Finder.
+- SEO Exact Match Domain Name Finder.
 - Single or bulk SEO domain search.
 - Google Keyword Planner CSV Importer.
 - Search Google SERP related keywords.
