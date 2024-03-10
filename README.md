@@ -1,7 +1,7 @@
 # SEO Domain Checker
 ![SEO Domain Checker](https://store-images.s-microsoft.com/image/apps.773.14522446535694154.0eac8a61-128e-4983-a0b6-d9de7fc51600.ec8ee91e-2e5c-4538-b95d-05ff669cd394)
 ## SEO Domain Checker Download
-[![SEO Domain Checker Windows](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9N3TWLM4C6TW)  |  [![SEO Domain Checker Mac](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/craigslist-auto-poster-mac.zip)
+[![SEO Domain Checker Windows](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9p0pnkclh353)  |  [![SEO Domain Checker Mac](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/craigslist-auto-poster-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://apps.microsoft.com/detail/9p0pnkclh353)             |  [Mac](https://github.com/appdownloads/software/raw/main/seo-domain-checker-mac.zip)
 ### Features
