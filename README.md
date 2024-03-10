@@ -10,6 +10,9 @@
 - Google Keyword Planner CSV Importer.
 - Search Google SERP related keywords.
 - Filter by availability or terms.
+- Quick access to whois and website address built-in.
+- CamelCase domains for easier readability.
+- Large fonts and display for visually impaired.
 - Minimize to background system tray.
 - Compatible with Windows and Mac.
 ##### Privacy
