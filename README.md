@@ -4,8 +4,6 @@
 [![SEO Domain Checker Windows](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9N3TWLM4C6TW)  |  [![SEO Domain Checker Mac](https://github.com/seo-domain-checker/seo-domain-checker-free/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/craigslist-auto-poster-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://apps.microsoft.com/detail/9p0pnkclh353)             |  [Mac](https://github.com/appdownloads/software/raw/main/seo-domain-checker-mac.zip)
-
-SEO Domain Checker is a website domain checking tool that enables users to find exact match domains from their Windows or Mac computer.
 ### Features
 - SEO Exact Match Domain Finder.
 - Single or bulk SEO domain search.
